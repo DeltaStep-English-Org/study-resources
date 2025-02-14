@@ -16,7 +16,7 @@ If you can, you can support us by donating:
 
 ## Buy to support us  
 If you would rather pay for our study resources directly, you can do that!  
-Just head to my Store page and click on any of the ebooks or other items that you want to buy.  
+Just head to my [Store page](https://farran.gitbook.io/personal/store-free) and click on any of the ebooks or other items that you want to buy.  
 The links will take you to the Stripe catalogue item page, where you can make the online payment.  
 
 ## Notes about these documents 
